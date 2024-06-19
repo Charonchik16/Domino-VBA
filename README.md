@@ -1,2 +1,4 @@
-# Domino-VBA
-Domino game on Vba
+# Domino-VBA 
+Реализация игры домино на VBA, делалось для курсовой работы
+
+
